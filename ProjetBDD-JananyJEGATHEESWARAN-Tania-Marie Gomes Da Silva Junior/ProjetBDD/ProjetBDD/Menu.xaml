@@ -1,0 +1,22 @@
+﻿<Window x:Class="ProjetBDD.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjetBDD"
+        mc:Ignorable="d"
+        Title="Menu" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="clients_e" Content="Clients E" HorizontalAlignment="Left" Margin="180,65,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="clients_e_Click"/>
+        <Button x:Name="clients_p" Content="Clients P" HorizontalAlignment="Left" Margin="350,65,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="clients_p_Click"/>
+        <Button x:Name="pieces_rechange" Content="Pièces Rechange" HorizontalAlignment="Left" Margin="520,65,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="pieces_rechange_Click"/>
+        <Button x:Name="gestion_velos" Content="Gestion Vélos" HorizontalAlignment="Left" Margin="180,159,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="gestion_velos_Click"/>
+        <Button x:Name="fournisseurs" Content="Fournisseurs" HorizontalAlignment="Left" Margin="350,159,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="fournisseurs_Click"/>
+        <Button x:Name ="commandes" Content="Commandes" HorizontalAlignment="Left" Margin="520,159,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="commandes_Click"/>
+        <Label Content="Choisir une base à modifier" HorizontalAlignment="Left" Margin="320,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.258,-0.098"/>
+        <Button x:Name="Statistiques" Content="Statistiques" HorizontalAlignment="Left" Margin="180,276,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="Statistiques_Click"/>
+        <Button Content="Stock" HorizontalAlignment="Left" Margin="350,276,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="Stock_Click"/>
+        <Button Content="Exportation" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="520,276,0,0" Height="40" Click="Exportation_Click"/>
+
+    </Grid>
+</Window>

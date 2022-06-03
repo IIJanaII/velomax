@@ -1,0 +1,91 @@
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\bin\Debug\ProjetBDD.exe.config
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\bin\Debug\ProjetBDD.exe
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\bin\Debug\ProjetBDD.pdb
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.csprojAssemblyReference.cache
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\MainWindow.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\App.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD_MarkupCompile.cache
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD_MarkupCompile.lref
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\MainWindow.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.g.resources
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.Properties.Resources.resources
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.csproj.GenerateResource.cache
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.exe
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.pdb
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Window1.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Page1.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Page2.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Page1.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Page2.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Window1.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.csproj.CopyComplete
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Page3.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Fournisseurs.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Fournisseurs.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Page3.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Navigation.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Navigation.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Commandes.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Commandes.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ClientsP.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\ClientsP.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\GestionVelos.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\PiecesRechange.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\GestionVelos.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\PiecesRechange.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Statistiques.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Statistiques.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\GestionVelo.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\GestionVelo.baml
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Stock.g.cs
+C:\Users\Lucas Kaczmarski\source\repos\ProjetBDD\ProjetBDD\obj\Debug\Stock.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\bin\Debug\ProjetBDD.exe.config
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\bin\Debug\ProjetBDD.exe
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\bin\Debug\ProjetBDD.pdb
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.csprojAssemblyReference.cache
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ClientsP.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Commandes.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Fournisseurs.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\GestionVelo.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\GestionVelos.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Page1.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Page2.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Page3.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\PiecesRechange.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Statistiques.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Stock.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Window1.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\App.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD_MarkupCompile.cache
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD_MarkupCompile.lref
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ClientsP.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Commandes.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Fournisseurs.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\GestionVelo.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\GestionVelos.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Page1.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Page2.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Page3.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\PiecesRechange.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Statistiques.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Stock.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Window1.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.g.resources
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.Properties.Resources.resources
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.csproj.GenerateResource.cache
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.csproj.CoreCompileInputs.cache
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.csproj.CopyComplete
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.exe
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ProjetBDD.pdb
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Connexion.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Connexion.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ClientE.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Menu.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\ClientE.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\Menu.baml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\assemblage.g.cs
+C:\Users\jega_\Downloads\wetransfer_projetbdd_2022-05-17_0916\ProjetBDD\ProjetBDD\obj\Debug\assemblage.baml

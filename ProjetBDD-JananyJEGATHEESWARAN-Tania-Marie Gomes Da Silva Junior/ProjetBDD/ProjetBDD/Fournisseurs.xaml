@@ -1,0 +1,43 @@
+﻿<Window x:Class="ProjetBDD.Fournisseurs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjetBDD"
+        mc:Ignorable="d"
+        Title="Fournisseurs" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="101*"/>
+            <RowDefinition Height="319*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Siret" HorizontalAlignment="Left" Margin="40,43,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.146,0.599"/>
+        <Label Content="Nom" HorizontalAlignment="Left" Margin="40,75,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.466,-1.037" Grid.RowSpan="2"/>
+        <Label Content="Rue" HorizontalAlignment="Left" Margin="42,125.2,0,0" VerticalAlignment="Top" Grid.Row="1" RenderTransformOrigin="0.613,1.488"/>
+        <Label Content="Contact" HorizontalAlignment="Left" Margin="42,153.2,0,0" VerticalAlignment="Top" Grid.Row="1" RenderTransformOrigin="0.466,3.06"/>
+        <Label Content="Libelle" HorizontalAlignment="Left" Margin="40,179.2,0,0" VerticalAlignment="Top" Grid.Row="1" RenderTransformOrigin="0.488,3.402"/>
+        <DataGrid x:Name="datagrid" HorizontalAlignment="Left" Height="286" Margin="400,30,0,0" VerticalAlignment="Top" Width="384" Grid.RowSpan="2"/>
+        <Button x:Name="Création" Content="Création" HorizontalAlignment="Left" Margin="100,250,0,0" VerticalAlignment="Top" Width="95" Height="40" RenderTransformOrigin="0.491,0.823" Grid.Row="1" Click="add_Fournisseur"/>
+        <TextBox x:Name="siret_txt" HorizontalAlignment="Left" Margin="160,45,0,32.8" TextWrapping="Wrap" Text="" Width="120" RenderTransformOrigin="-0.237,0.891"/>
+        <TextBox x:Name="nom_fournisseur_txt" HorizontalAlignment="Left" Height="23" Margin="160,73,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.477,-2.353"/>
+        <TextBox x:Name="rue_fournisseur_txt" HorizontalAlignment="Left" Height="23" Margin="160,128.2,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.32,-0.343"/>
+        <TextBox x:Name="contact_txt" HorizontalAlignment="Left" Height="23" Margin="160,156.2,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.545,4.017"/>
+        <TextBox x:Name="libelle_txt" HorizontalAlignment="Left" Height="23" Margin="160,184.2,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.519,2.808"/>
+        <Button x:Name="Suppression" Content="Suppression" HorizontalAlignment="Left" Margin="250,250.2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="95" Height="40" Click="Suppression_Click"/>
+        <Label Content="Recherche Par Siret" HorizontalAlignment="Left" Margin="40,12,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="search_txt" HorizontalAlignment="Left" Height="23" Margin="160,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Mise à jour" HorizontalAlignment="Left" Margin="400,250.2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="95" Height="40" Click="Button_Click_1"/>
+
+        <Label Content="Ville" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.477,4.831" Margin="40,0.2,0,0" Grid.Row="1"/>
+        <TextBox x:Name="ville_fournisseur_txt" HorizontalAlignment="Left" Height="23" Margin="160,3.2,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.468,-1.277"/>
+        <Label Content="Code Postal" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.499,7.252" Margin="40,35.2,0,0" Grid.Row="1"/>
+        <TextBox x:Name="codeP_fournisseur_txt" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="160,35.2,0,0" Grid.Row="1" RenderTransformOrigin="0.485,-0.05"/>
+        <Label Content="Province" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.689,6.974" Margin="40,74.2,0,0" Grid.Row="1"/>
+        <TextBox x:Name="province_fournisseur_txt" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="160,77.2,0,0" Grid.Row="1"/>
+
+        <Button x:Name="Menu" Content="Menu" HorizontalAlignment="Left" Margin="551,250.2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="99" RenderTransformOrigin="-0.104,-1.12" Height="40" Click="Menu_Click"/>
+
+
+    </Grid>
+</Window>
